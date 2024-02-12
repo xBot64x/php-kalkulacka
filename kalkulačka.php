@@ -23,7 +23,7 @@
     </div>
 
 
-    <input type="submit" name="submit" value="Calculate">
+    <input type="submit" name="submit" value="Vypočítat">
 </form> 
 </body>
 </html>
